@@ -3,7 +3,7 @@ const navbarOffsetTop = navbar.offsetTop;
 const sections = document.querySelectorAll("section");
 const navbarLinks = document.querySelectorAll(".navbar-link");
 const progress = document.querySelector(".progress-bars-wrapper");
-const progressBarPercents = [97, 89, 85, 87, 60, 70, 50];
+const progressBarPercents = [97, 89, 85, 87, 75, 80, 85];
 
 window.addEventListener("scroll", () => {
   mainFn();
