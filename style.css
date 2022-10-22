@@ -157,6 +157,16 @@ html {
   align-items: center;
 }
 
+h2 {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #333;
+  text-transform: capitalize;
+  letter-spacing: 0.2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
 .progress-bars-wrapper {
   margin-bottom: 10rem;
 }
